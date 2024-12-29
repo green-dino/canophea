@@ -38,7 +38,7 @@
 
 ### **Clone the repository**:
 ```bash
-git clone https://github.com/username/canophea.git
+git clone https://github.com/green-dino/canophea
 ```
 
 ### **Create a Virtual Environment**:
@@ -80,7 +80,7 @@ Contributions are welcome! Please feel free to:
 ---
 
 ## **License**
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+This project is licensed under the **FREE BSD License**. See the `LICENSE` file for more details.
 
 ---
 
